@@ -7,7 +7,8 @@
  - Open Arduino IDE. Choose Sketch > Include Libary > ADD .ZIP Libary and select all Lib.zip above.
  
 #2. Connect hardware Arduino Mega and ILI9486 Module 
- I bought all elements on HCM City - VietNam.It's so easy to connect together.
+ 
+I bought all elements on HCM City - VietNam and it's so easy to connect together.
  - Buy ILI9846 at Link: https://hshop.vn/products/man-hinh-cam-ung-arduino-tft-shield-3-5-inch-ili9486
  - Buy Mega at Link:https://hshop.vn/products/arduino-mega-2560r3
  - Buy DS18B20 at Link: https://hshop.vn/products/cam-bien-nhiet-do-ds18b20-day
